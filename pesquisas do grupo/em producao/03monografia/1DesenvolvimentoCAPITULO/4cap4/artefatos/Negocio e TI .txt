@@ -1,0 +1,24 @@
+Os requisitos funcionais representam
+o que o software deve fazer para
+que ele suporte o negócio. Mas
+os requisitos não-funcionais representam
+as caracteristicas de qualidade
+que o sistema possuirá. O RNFs podem
+ser conflitantes ou não conflitantes. Por
+isso restringem a funcionalidade do software: um sistema pode possuir uma determinada
+funcionalidade que seja eficaz mas que não necessariamente seja eficiente.
+
+Quando se tem um negócio que necessita de um software para suporta-lo 
+e esse software por sua vez possuir várias funcionalidades que vizem atender os processos
+de negócio, analises de negócios poderão identificar restrições que o os responsáveis
+pelo desenvolvimento do software deverão considerar para que o software possa atender de maneira satisfatória o negócio.
+
+Porém, a medida que o negócio cresce, ele se torna mais complexo e do sofware ou dos softwares são exirgidas mais  funcionalidades.
+Um negócio complexo contendo varios departamentos e até várias filias com seus próprios departamentos é dotado de vários conflitos. 
+Muito embora, os objetivos  específicos de cada departamento em um determinado negócio possam estar alinhados aos objetivos gerais 
+do negócio, ações específicas para atender objetivos específicos de departamentos específicos do negócio podem não atender os seu 
+próprios objetivos e consequentemente não atender os objetivos do negócio. Em um negócio não se tem todo o tempo do mundo, nem todo dinheiro do mundo, 
+nem todos os funcionarios do mundo.
+Os softwares para serem desenvolvidos necessitam de tempo, dinheiro, recuros humanos e processos de trabalho. Esses três fatores determinam 
+a qualidade do software. Se um software não não atende às expectativas dos clientes certamente ocorreu a causa do problema está em pelo menos
+ um dos quatro fatores ateriormente citados
